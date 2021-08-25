@@ -111,7 +111,7 @@ Wherever possible, use an authenticator app instead of your email or cell phone.
 
 ## Can I <span style="color: red">change</span> my SSN? 🤔
 
-Even if your SSN has appeared in a data breach, you can only [get a new number](https://faq.ssa.gov/en-us/Topic/article/KA-02220) if you have already been victim of identity theft and that you *continue* to be "disadvantaged" by using the original number. 
+Even if your SSN has appeared in a data breach, you can only [get a new number](https://faq.ssa.gov/en-us/Topic/article/KA-02220) if you have already been a victim of identity theft and you *continue* to be "disadvantaged" by using the original number. 
 
 
 ---
