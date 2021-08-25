@@ -1,0 +1,13 @@
+baseURL = "https://hasmyssnbeenpwned.com/"
+languageCode = "en-us"
+title = "Has my SSN been pwned?"
+
+theme = "reveal-hugo"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
