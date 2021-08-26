@@ -71,6 +71,8 @@ e.g. "Credit card company" calls about some fraudulant activity. **Hang up** and
 
 ---
 
+{{% section id="simswap" %}}
+
 {{< slide id="simswap" >}}
 
 ## Beware the <span style="color: red">SIM swap</span>
@@ -79,6 +81,14 @@ e.g. "Credit card company" calls about some fraudulant activity. **Hang up** and
 
 * Call your carrier and ask to set up a "**Port Freeze**".
 * You will need to create a PIN. Make it long, unique, include letters if possible, and save it somewhere safe.
+
+---
+
+## Carrier specific Port Freeze info
+
+# <span style="color: yellow">⚠ Coming soon ⚠</span>
+
+{{% /section %}}
 
 ---
 
@@ -128,7 +138,7 @@ If you're a victim of identity thieves, call the Federal Trade Commission at (87
 
 # Stay safe!
 
-[hasmySSNbeenpwned](https://www.hasmyssnbeenpwned.com) brought to you courtesy of **[tygertec](https://www.tygertec.com)**.
+[hasmySSNbeenpwned](/) brought to you courtesy of **[tygertec](https://www.tygertec.com)**.
 
 {{< donate >}}
 
