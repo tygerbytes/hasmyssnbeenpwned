@@ -4,9 +4,9 @@ outputs = ["Reveal"]
 +++
 
 
-<!-- ## Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95; font-style: italic;">Pwned</span>❓ -->
+## Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95; font-style: italic;">Pwned</span>❓
 
-<img style="border:0; background:none;box-shadow:none;" src="img/hasmyssnbeenpwned.png" alt="Has my SSN been Pwned?">
+<!-- <img style="border:0; background:none;box-shadow:none;" src="img/hasmyssnbeenpwned.png" alt="Has my SSN been Pwned?"> -->
 
 {{% fragment %}}# <span style="color: red; font-weight: bold;">YES</span>{{% /fragment %}}
 
@@ -146,8 +146,22 @@ Even $1 really helps keep this content updated.
 1. has no relationship with the US government or Social Security Administration
 1. provides no guarantees or warranties
 
-View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
+---
 
+{{< slide id="about" >}}
+
+### <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
+
+It started as a just-for-grins parody site in response to the T-Mobile breach. Then I realized it could be:
+
+1. **Educational**
+2. **A central place to maintain direct links to some of these sometimes hard-to-find resources**.
+
+> "Dad, here's everything you need to [freeze your credit](#/freeze) with all 3 major credit bureaus".
+
+💻
+
+View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
 
 ---
 
@@ -155,6 +169,6 @@ View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHu
 
 ### Credits
 
-* Inspired by Troy Hunt's [haveibeenpwned.com](https://haveibeenpwned.com)
 * Hugo [theme](https://themes.gohugo.io/themes/reveal-hugo/) by Josh Dzielak
 * [Reveal.js](https://revealjs.com/) HTML presentation framework, by Hakim El Hattab
+* Inspired by Troy Hunt's [haveibeenpwned.com](https://haveibeenpwned.com)
