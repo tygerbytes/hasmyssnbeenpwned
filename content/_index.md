@@ -14,7 +14,7 @@ outputs = ["Reveal"]
 
 {{< slide transition="zoom" transition-speed="fast" >}}
 
-## 🤷 Assume your SSN is already <span style="color: red">compromised</span>
+### 🤷 Assume your SSN is already <span style="color: red">compromised</span>
 
 <ul>
 {{% fragment %}}* [2017 Equifax breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach) exposes 100M SSN{{% /fragment %}}
@@ -59,7 +59,7 @@ Set up an [account at ssa.gov account](https://secure.ssa.gov/RIL/SiView.action)
 
 {{< slide id="phishing" >}}
 
-## Assume *every* email, call, text message is a <span style="color: red;">scam</span> 🎭
+### Assume every email, call, text message is a <span style="color: red;">scam</span> 🎭
 
 <small>They may already have your SSN, name, DoB, drivers license, address. They want that **last bit of info** to take over your accounts.</small>
 
@@ -134,7 +134,7 @@ If you're a victim of identity thieves, call the Federal Trade Commission at (87
 
 ---
 
-{{< slide id="donate" background-color="#026724" transition="zoom" transition-speed="fast" >}}
+{{< slide id="donate" transition="zoom" transition-speed="fast" >}}
 
 # Stay safe!
 
@@ -158,6 +158,16 @@ Even $1 really helps keep this content updated.
 
 ---
 
+{{< slide id="credits" >}}
+
+### Credits
+
+* Hugo [theme](https://themes.gohugo.io/themes/reveal-hugo/) by Josh Dzielak
+* [Reveal.js](https://revealjs.com/) HTML presentation framework, by Hakim El Hattab
+* Inspired by Troy Hunt's [haveibeenpwned.com](https://haveibeenpwned.com)
+
+---
+
 {{< slide id="about" >}}
 
 ### <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
@@ -172,13 +182,3 @@ It started as a just-for-grins parody site in response to the T-Mobile breach. T
 💻
 
 View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
-
----
-
-{{< slide id="credits" >}}
-
-### Credits
-
-* Hugo [theme](https://themes.gohugo.io/themes/reveal-hugo/) by Josh Dzielak
-* [Reveal.js](https://revealjs.com/) HTML presentation framework, by Hakim El Hattab
-* Inspired by Troy Hunt's [haveibeenpwned.com](https://haveibeenpwned.com)
