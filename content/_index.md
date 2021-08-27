@@ -24,7 +24,7 @@ outputs = ["Reveal"]
 </ul>
 
 {{% fragment %}}
-> "It's totally reasonable to assume that your social security number has been compromised at least once, if not many times" -- [Mike Chapple](https://www.forbes.com/sites/suzannerowankelleher/2019/08/01/everyones-social-security-number-has-been-compromised-heres-how-to-protect-yourself/?sh=3b2e964a29ac)
+> <small>"It's totally reasonable to assume that your social security number has been compromised at least once, if not many times" -- [Mike Chapple](https://www.forbes.com/sites/suzannerowankelleher/2019/08/01/everyones-social-security-number-has-been-compromised-heres-how-to-protect-yourself/?sh=3b2e964a29ac)</small>
 {{% /fragment %}}
 
 ---
@@ -174,11 +174,9 @@ Even $1 really helps keep this content updated.
 
 It started as a just-for-grins parody site in response to the T-Mobile breach. Then I realized it could be:
 
-1. **Educational**
-2. **A central place to maintain direct links to some of these sometimes hard-to-find resources**.
+1. 🎓 Educational
+2. 🗃️ A central place for direct links to hard-to-find resources
 
-> "Dad, here's everything you need to [freeze your credit](#/freeze) with all 3 major credit bureaus".
+> <small>"Dad, here's everything you need to [freeze your credit](#/freeze) with all 3 major credit bureaus".</small>
 
-💻
-
-View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
+💻 View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
