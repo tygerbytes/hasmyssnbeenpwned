@@ -71,7 +71,7 @@ e.g. "Credit card company" calls about some fraudulant activity. **Hang up** and
 
 ---
 
-{{% section id="simswap" %}}
+{{% section %}}
 
 {{< slide id="simswap" >}}
 
@@ -110,7 +110,7 @@ Wherever possible, use an authenticator app instead of your email or cell phone.
 
 {{< slide id="nossn" >}}
 
-## 🚫 Stop giving out SSN 🚫
+## 🚫 Stop giving out SSN
 
 * Most websites and paper forms **don't need** your SSN. Make them prove their need.
 * You *may* be able to use an [EIN](https://www.irs.gov/businesses/small-businesses-self-employed/how-to-apply-for-an-ein) instead, but talk to lawyer / accountant first.
@@ -119,7 +119,7 @@ Wherever possible, use an authenticator app instead of your email or cell phone.
 
 {{< slide id="changessn" >}}
 
-## Can I <span style="color: red">change</span> my SSN? 🤔
+## Can I <span style="color: red">change</span> my SSN? 🤔 &nbsp;
 
 Even if your SSN has appeared in a data breach, you can only [get a new number](https://faq.ssa.gov/en-us/Topic/article/KA-02220) if you have already been a victim of identity theft and you *continue* to be "disadvantaged" by using the original number. 
 
@@ -128,7 +128,7 @@ Even if your SSN has appeared in a data breach, you can only [get a new number](
 
 {{< slide id="contactftc" >}}
 
-## Contact the <span style="color: red">FTC</span> 📞
+## Contact the <span style="color: red">FTC</span> 📞&nbsp;
 
 If you're a victim of identity thieves, call the Federal Trade Commission at (877) 382-4357 and visit their [identity theft page](https://www.consumer.ftc.gov/features/feature-0014-identity-theft).
 
@@ -143,6 +143,23 @@ If you're a victim of identity thieves, call the Federal Trade Commission at (87
 {{< donate >}}
 
 Even $1 really helps keep this content updated.
+
+---
+
+{{% section %}}
+
+{{< slide id="about" >}}
+
+### <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
+
+It started as a just-for-grins parody site in response to the T-Mobile breach. Then I realized it could be:
+
+1. 🎓 Educational
+2. 🗃️ A central place for direct links to hard-to-find resources
+
+> <small>"Dad, here's everything you need to [freeze your credit](#/freeze) with all 3 major credit bureaus".</small>
+
+💻 View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
 
 ---
 
@@ -168,15 +185,6 @@ Even $1 really helps keep this content updated.
 
 ---
 
-{{< slide id="about" >}}
+# &nbsp; 😴 &nbsp;
 
-### <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
-
-It started as a just-for-grins parody site in response to the T-Mobile breach. Then I realized it could be:
-
-1. 🎓 Educational
-2. 🗃️ A central place for direct links to hard-to-find resources
-
-> <small>"Dad, here's everything you need to [freeze your credit](#/freeze) with all 3 major credit bureaus".</small>
-
-💻 View the [source code](https://github.com/tygerbytes/hasmyssnbeenpwned) on GitHub
+{{% /section %}}
