@@ -29,7 +29,18 @@ outputs = ["Reveal"]
 
 ---
 
-# What can I <span style="font-style: italic;">do?
+{{< slide id="index" >}}
+
+### 🛡️ Protect your identity
+
+1. [Freeze your credit](/#/freeze)
+1. [Set up a "My Social Security" account](/#/socialsecurityaccount)
+1. [Assume everything is a scam](/#/phishing)
+1. [Beware the "SIM Swap"](/#/simswap)
+1. [Get better "MFA"](/#/better2fa)
+1. [Stop giving out your SSN](/#/nossn)
+1. [Can I change my SSN?](/#/changessn)
+1. [Contact the FTC](/#/contactftc)
 
 ---
 
