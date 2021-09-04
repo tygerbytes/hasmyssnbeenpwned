@@ -3,29 +3,35 @@ title = "Has my SSN been Pwned?"
 outputs = ["Reveal"]
 +++
 
+{{% section %}}
 
-## Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95; font-style: italic;">Pwned</span>❓
+### Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95;">*Pwned*</span>❓
 
-<!-- <img style="border:0; background:none;box-shadow:none;" src="img/hasmyssnbeenpwned.png" alt="Has my SSN been Pwned?"> -->
+🤷
 
-{{% fragment %}}# <span style="color: red; font-weight: bold;">YES</span>{{% /fragment %}}
+**Yes, it's likely your SSN has been exposed.**
+
+<br>
+How can I protect myself? 🤔
+
+<br>
+<small style="font-style: italic; color: #888">(Swipe right)</small>
 
 ---
 
 {{< slide transition="zoom" transition-speed="fast" >}}
 
-### 🤷 Assume your SSN is already <span style="color: red">compromised</span>
+### 🤷 Assume your SSN is <span style="color: red">already</span> compromised
 
-<ul>
-{{% fragment %}}* [2017 Equifax breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach) exposes 100M SSN{{% /fragment %}}
-{{% fragment %}}* [2021 T-Mobile breach](https://www.t-mobile.com/brand/data-breach-2021) exposes 40M SSN{{% /fragment %}}
-{{% fragment %}}* And what about undisclosed breaches?{{% /fragment %}}
-{{% fragment %}}* There are only ~330 million US citizens{{% /fragment %}}
-</ul>
+Breach after breach exposes social security numbers
 
-{{% fragment %}}
+* [2017 Equifax breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach) exposes 100M SSN
+* [2021 T-Mobile breach](https://www.t-mobile.com/brand/data-breach-2021) exposes 40M SSN
+* ...
+
 > <small>"It's totally reasonable to assume that your social security number has been compromised at least once, if not many times" -- [Mike Chapple](https://www.forbes.com/sites/suzannerowankelleher/2019/08/01/everyones-social-security-number-has-been-compromised-heres-how-to-protect-yourself/?sh=3b2e964a29ac)</small>
-{{% /fragment %}}
+
+{{% /section %}}
 
 ---
 
