@@ -5,14 +5,14 @@ outputs = ["Reveal"]
 
 {{% section %}}
 
-### Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95;">*Pwned*</span>❓
+<h1 style="font-size: 2em"> Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95;font-style:italic">Pwned</span>❓</h1>
 
 🤷
 
 **Yes, it's likely your SSN has been exposed.**
 
 <br>
-How can I protect myself? 🤔
+How can you protect yourself? 🤔
 
 <br>
 <small style="font-style: italic; color: #888">(Swipe right)</small>
@@ -98,14 +98,6 @@ e.g. "Credit card company" calls about some fraudulant activity. **Hang up** and
 
 * Call your carrier and ask to set up a "**Port Freeze**".
 * You will need to create a PIN. Make it long, unique, include letters if possible, and save it somewhere safe.
-
----
-
-## Carrier specific Port Freeze info
-
-# <span style="color: yellow">⚠ Coming soon ⚠</span>
-
-{{% /section %}}
 
 ---
 
