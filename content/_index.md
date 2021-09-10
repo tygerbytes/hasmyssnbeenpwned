@@ -5,7 +5,7 @@ outputs = ["Reveal"]
 
 {{% section %}}
 
-<h1 style="font-size: 2em"> Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95;font-style:italic">Pwned</span>❓</h1>
+# Has my <span style="color: #3e7d95;">SSN</span> been <span style="color: #3e7d95;font-style:italic">Pwned</span>❓
 
 🤷
 
@@ -37,7 +37,7 @@ Breach after breach exposes social security numbers
 
 {{< slide id="index" >}}
 
-### 🛡️ Protect your identity
+## 🛡️ Protect your identity
 
 1. [Freeze your credit](/#/freeze)
 1. [Set up a "My Social Security" account](/#/socialsecurityaccount)
@@ -76,7 +76,7 @@ Set up an [account at ssa.gov account](https://secure.ssa.gov/RIL/SiView.action)
 
 {{< slide id="phishing" >}}
 
-### Assume every email, call, text message is a <span style="color: red;">scam</span> 🎭
+<h2 style="font-size: 155em;">Assume every email, call, text message is a <span style="color: red;">scam</span> 🎭&nbsp;</h2>
 
 <small>They may already have your SSN, name, DoB, drivers license, address. They want that **last bit of info** to take over your accounts.</small>
 
@@ -87,8 +87,6 @@ Set up an [account at ssa.gov account](https://secure.ssa.gov/RIL/SiView.action)
 e.g. "Credit card company" calls about some fraudulant activity. **Hang up** and call the number on the back of your credit card
 
 ---
-
-{{% section %}}
 
 {{< slide id="simswap" >}}
 
@@ -145,7 +143,7 @@ If you're a victim of identity thieves, call the Federal Trade Commission at (87
 
 {{< slide id="donate" transition="zoom" transition-speed="fast" >}}
 
-# Stay safe!
+# Stay safe
 
 [hasmySSNbeenpwned](/) brought to you courtesy of **[tygertec](https://www.tygertec.com)**.
 
@@ -159,7 +157,7 @@ Even $1 really helps keep this content updated.
 
 {{< slide id="about" >}}
 
-### <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
+## <span style="color:#3e7d95">About</span> 'Has My SSN Been Pwned'
 
 It started as a just-for-grins parody site in response to the T-Mobile breach. Then I realized it could be:
 
@@ -175,7 +173,8 @@ It started as a just-for-grins parody site in response to the T-Mobile breach. T
 {{< slide id="disclaimer" >}}
 
 ### Disclaimer
-#### This site...
+
+*This site...*
 
 1. does *not* maintain a list of compromised SSN
 1. is educational and meant to raise awareness
